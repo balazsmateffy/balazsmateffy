@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Balazs @balazsmateffy
+- 👀 I’m interested in DevOps and modern IT
+- 🌱 I’m currently learning new tech
+- 💞️ I’m looking to collaborate on anything python related
